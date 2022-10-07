@@ -1,3 +1,2 @@
-
-mkdir /tmp/my_first_directory
-ls -al
+#!/bin/bash #!/bin/bash
+#!/bin/bash #!/bin/bash
